@@ -1,1 +1,1 @@
-# gerenciador-de-jogos
+# projeto simples de gerenciador de jogos em python
